@@ -39,10 +39,10 @@ User Case:  Provide User Support for Browsing the saved Event.
 
 
 Git Hub Access: 
-https://github.com/tanujjain2015/concertplanner
+https://github.com/dancl6/Event-Universe
 
 WebSite Access: 
-https://tanujjain2015.github.io/concertplanner/
+https://dancl6.github.io/Event-Universe/
 
 Presentation:
 https://docs.google.com/presentation/d/1zizgqK0PJWcKRY2mZBFpK0Hjs02jkd5gkhZ8qlhPsQQ/edit?usp=sharing
