@@ -1,6 +1,18 @@
 # Event Universe
 ## Developed by Tanuj Jain, Dan Lyons and David Stahl
 
+Note: It is necessary to first create a google map api, then enable: 
+Distance Matrix API,
+Directions API,
+Geocoding API,
+Geolocation API,
+Maps JavaScript API, and
+Maps Embed API
+
+Then, open up a chrome console by typing control/shift/i        
+Finally, in the console, type the following:
+localStorage.setItem("googApi","put-your-key-here");
+
 Description:
 -----------
 Event Universe enables the user to search, retrieve and research concerts, sports and other events through an easy-to-use web interface by providing “user management”, “event management with advanced filtering”, and “event data management” capabilities. 
