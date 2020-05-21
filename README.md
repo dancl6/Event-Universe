@@ -1,17 +1,17 @@
 # Event Universe
 ## Developed by Tanuj Jain, Dan Lyons and David Stahl
 
-Note: It is necessary to first create a google map api, then enable: 
-Distance Matrix API,
-Directions API,
-Geocoding API,
-Geolocation API,
-Maps JavaScript API, and
-Maps Embed API
+## Note: It is necessary to first create a google map api, then enable: 
+## Distance Matrix API,
+## Directions API,
+## Geocoding API,
+## Geolocation API,
+## Maps JavaScript API, and
+## Maps Embed API
 
-Then, open up a chrome console by typing control/shift/i        
-Finally, in the console, type the following:
-localStorage.setItem("googApi","put-your-key-here");
+## Then, open up a chrome console by typing control/shift/i        
+## Finally, in the console, type the following:
+## localStorage.setItem("googApi","put-your-key-here");
 
 Description:
 -----------
